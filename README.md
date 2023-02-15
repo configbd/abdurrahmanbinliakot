@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abdurrahmanbinliakot
+- 👋 Hi, I’m @abdurrahimbinliakot
 - 👀 I’m interested in python
 - 🌱 I’m currently learning Django and React
 - 💞️ I’m looking to collaborate on ...
